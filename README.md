@@ -2,8 +2,10 @@
 # DNA-Protein Binding
 
 A DNA-binding protein was chosen from the [Protein Data Bank (PDB)][pdb] and the most
-likely attachment site for its related stretch of DNA was found using Python,
+likely attachment site for its related stretch of DNA was sought using Python,
 [FTDock][ftdock], and [Chimera][chimera].
+
+<img src="images/chimera-cutaway.jpg" />
 
 The full report is [here](report/Report.pdf).
 
